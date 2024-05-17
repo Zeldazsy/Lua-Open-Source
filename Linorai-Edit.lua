@@ -1,3 +1,5 @@
+-- ใช้ Example อันนี้เท่านั้น https://github.com/violin-suzutsuki/LinoriaLib/blob/dceba38b79b5867b20fd83cf27c0cd2061d8deae/Example.lua
+
 local InputService = game:GetService('UserInputService');
 local HttpService = game:GetService('HttpService');
 local TextService = game:GetService('TextService');
